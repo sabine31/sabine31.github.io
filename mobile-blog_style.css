@@ -1,0 +1,63 @@
+/*feuille de style mobile pour le festival cinema toulouse*/
+
+@media screen and (max-width:1110px) {
+
+    .container {
+        width: 100%;
+    }
+
+    #page {
+        width: 100%;
+    }
+}
+
+ /**********************************
+                   1420px
+************************************/
+@media screen and (max-width:1420px) {   
+    
+    }
+ /**********************************
+                   1020px
+************************************/
+@media screen and (max-width:1020px) {   
+    
+    }
+  /**********************************
+                   800px
+************************************/
+
+
+
+@media screen and (max-width:800px) {  
+    
+    
+    
+    /*menu mobile*/
+
+
+
+#menu-mobile{
+    display:block;
+}
+
+#menu{
+    display:none;
+}
+    }
+
+/**********************************
+                   580px
+************************************/
+
+
+
+@media screen and (max-width:580px) {
+    
+    }
+    
+    /**********************************
+                   400px
+************************************/
+    
+    @media screen and (max-width:400px) {
